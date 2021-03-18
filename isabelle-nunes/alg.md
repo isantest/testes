@@ -1,2 +1,2 @@
-desmistificando-algoritmo; 
-abcd
+- desmistificando-algoritmo; 
+abcd.
