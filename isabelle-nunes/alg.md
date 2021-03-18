@@ -1,2 +1,0 @@
-- desmistificando-algoritmo; 
-abcd.
